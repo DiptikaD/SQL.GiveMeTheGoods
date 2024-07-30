@@ -1,0 +1,1 @@
+SELECT * FROM mynewDB.students WHERE City LIKE '_a%';

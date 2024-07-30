@@ -1,0 +1,1 @@
+SELECT * FROM mynewDB.students WHERE Country IN ('Sint Maarten', 'Haiti');
